@@ -14,22 +14,22 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: 贾森之国 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 业余作家， 职业导师
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  作家， 职场， 文章, blog
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://jche117.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: jche117 # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: JiazhenChen # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://pbs.twimg.com/profile_images/1864252891696951296/hcowdcTX_400x400.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
