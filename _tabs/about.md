@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+莎士比亚用千万种方法写出爱情， 我愿用千万种方法写出我的人生
